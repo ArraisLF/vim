@@ -1,3 +1,20 @@
+## [1.1.0] - 2018-03-14
+### Adicionado
+
+- Lixeira, onde é possível restaurar tarefas, listas, quadros ou grupos deletados
+- Indicador do nível de prioridade por cores na lateral esquerda da tarefa
+- Tour guiado pelas principais funções do Chord. Acessível pelo botão "Tour" ao lado do calendário
+- Contador de tarefas na lista
+
+
+### Alterado
+
+- Nova paleta de cores
+- Correções no layout da tela de Perfil
+- Corrigido bug de pausar tarefa e perder status de subtarefas
+- Nova ilustração na tela de Login
+
+
 ## [1.0.0] - 2018-02-28
 ### Adicionado
 - WEBSOCKET adicionado, alterações agora acontecem em tempo real para todos os envolvidos (participantes de tarefas, quadros, pastas ou grupos)
